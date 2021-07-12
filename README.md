@@ -4,12 +4,13 @@
  
   
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=917696972351&text=Hi!)](https://api.whatsapp.com/send?phone=917696972351&text=Hi!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritishkhanna18@gmail.com)](mailto:itishkhanna18@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/ritishkhanna-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritishkhanna)
 ![GitHub followers](https://img.shields.io/github/followers/ritishkhanna?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ritishkhanna?style=social)
 
 
-<h1>Hey there, I'm Ritish Khanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1>Hey folks, I'm Ritish Khanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)
 
@@ -28,21 +29,26 @@
 - 💬 Ask me about WebDev,C++,DataStructures,Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to eat
-- 📫 How to reach me: 
-<p>
+- 📫 How to reach me: **[Twitter](http://twitter.com/ritishkhanna)**
+
+
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+
 <a href="https://twitter.com/ritishkhanna">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="ritishkhanna | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ritishkhanna">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="ritishkhanna's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.instagram.com/_rk18_">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="ritishkhanna's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://open.spotify.com/user/arc5xpebb1qhqvb2k7blbx9w7">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img alt="ritishkhanna's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 </p>
+
 
 <br/>
 
